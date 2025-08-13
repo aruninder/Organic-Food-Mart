@@ -14,3 +14,21 @@ The project focuses on delivering a clean UI, smooth navigation, and an engaging
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/aruninder/Organic-Food-Mart.git
+
+   ## Project Screenshot
+## 📸 Screenshots
+
+### Homepage
+![Homepage]()
+
+### Product Page
+![Product Page]()
+
+### Cart Page
+![Cart Page]()
+
+### Checkout Page
+![Checkout Page]()
+
+### footer view
+![footer View]()
