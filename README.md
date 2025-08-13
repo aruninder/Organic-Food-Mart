@@ -19,7 +19,7 @@ The project focuses on delivering a clean UI, smooth navigation, and an engaging
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage]()
+![Homepage](https://github.com/aruninder/Organic-Food-Mart/blob/main/food%20mart%20screenshot/Screenshot%20(34).png?raw=true)
 
 ### Product Page
 ![Product Page]()
