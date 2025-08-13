@@ -26,8 +26,8 @@ The project focuses on delivering a clean UI, smooth navigation, and an engaging
 ### review section
 ![review section](https://github.com/aruninder/Organic-Food-Mart/blob/main/food%20mart%20screenshot/Screenshot%20(40).png?raw=true)
 
-### Checkout Page
-![Checkout Page]()
+### blog Page
+![blog Page](https://github.com/aruninder/Organic-Food-Mart/blob/main/food%20mart%20screenshot/Screenshot%20(41).png?raw=true)
 
 ### footer view
 ![footer View]()
