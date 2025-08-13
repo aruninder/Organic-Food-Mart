@@ -30,4 +30,4 @@ The project focuses on delivering a clean UI, smooth navigation, and an engaging
 ![blog Page](https://github.com/aruninder/Organic-Food-Mart/blob/main/food%20mart%20screenshot/Screenshot%20(41).png?raw=true)
 
 ### footer view
-![footer View]()
+![footer View](https://github.com/aruninder/Organic-Food-Mart/blob/main/food%20mart%20screenshot/Screenshot%20(42).png?raw=true)
